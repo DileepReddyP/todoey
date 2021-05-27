@@ -1,0 +1,21 @@
+<? extended component = "Hello">
+
+<div
+    click=hello()
+    style={
+        border: {
+            width:
+            style: 
+            color:
+        },
+        background: {
+            color:
+            image:
+            repeat:
+            position:
+        }
+        margin: {
+
+        }
+    }
+    ></div>
